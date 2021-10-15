@@ -93,3 +93,98 @@ mkdir dupms
 ls
 cd dupms
 exit
+ls
+cd/ dupms
+cd /dupms
+ls
+cd dupms/
+ls
+cd ..
+git log
+git add .
+git commit -am "subo odoo original"
+ls -l
+ls -la
+git log
+git remote add origin https://github.com/DiyMaker/MIodoo.git
+.git
+git log
+ls
+cd dupms
+ls
+cd ..
+git add .
+git init
+git add .
+git commit -m "first commit"
+ls
+cd odoo14
+ls
+ls -la
+cd ..
+ls
+cd MIodoo
+ls
+ls -la
+cd .git
+ls
+cd branches
+ls
+ls -la
+cd..
+cd ..
+ls
+cd dupms
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/DiyMaker/MIodoo.git
+git push -u origin master
+exit
+ls
+cd MIodoo
+ls
+ls -la
+cd .git
+ls
+cd info
+ls
+cd ..
+cd description
+cd branches
+ls
+ls -la
+cd..
+cd ..
+ls
+git remote add origin https://github.com/DiyMaker/MIodoo.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/DiyMaker/MIodoo.git
+git branch -M main
+git push -u origin main
+ls
+mv dupms dumps
+ls
+cd dumps
+ls
+git remote add origin https://github.com/DiyMaker/MIodoo.git
+git branch -M main
+git push -u origin main
+exit
+ls
+cd dumps
+ls
+exit
+ls
+git init
+git add .
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/DiyMaker/MIodoo.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/DiyMaker/MIodoo.git
+git branch -M main
+git push -u origin main
